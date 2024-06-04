@@ -59,11 +59,11 @@ expiryDate = ["expiryDate"]
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 +0900"
 
-  description = "Archive of messages sent to the Discord channel of the 100 Days Challenge 7th Period"
+  description = "Archive of my messages sent to the Discord channel for the 100 Days Challenge 7th Period"
   # images = [""]
   themeColor = "#494f5c"
 
-  homeSubtitle = "Archive of messages sent to the Discord channel of the 100 Days Challenge 7th Period"
+  homeSubtitle = "Archive of my messages sent to the Discord channel for the 100 Days Challenge 7th Period"
   footerCopyright = ' <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""
   # gitUrl = "https://github.com/1bl4z3r/hermit-V2/tree/staging"
@@ -81,7 +81,7 @@ expiryDate = ["expiryDate"]
   # legacyLayout = false
   # shareSocial = true
   # googleTagManager = "GTM-XXXXXXXX"
-  tagSymbol = "＃"
+  tagSymbol = "# "
   # categorySymbol = "⊲"
   # pinned = "Pinned Posts"
   # pinnedSVGname = "pin"

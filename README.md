@@ -1,5 +1,7 @@
 # 100 Days Challenge 7th Period Archive
 
+https://normalsalt.github.io/100-days-7th/
+
 ```
 docker compose up -d
 open http://localhost:1313/100-days-7th/
@@ -18,6 +20,8 @@ docker run --rm -v .:/content -w /content -it alpine:latest sh
 apk add --no-cache --repository=https://dl-cdn.alpinelinux.org/alpine/edge/community hugo
 hugo new site my-site
 ```
+
+https://github.com/1bl4z3r/hermit-V2
 
 ```
 git submodule add -b main https://github.com/1bl4z3r/hermit-V2 my-site/themes/hermit-v2

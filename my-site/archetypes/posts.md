@@ -3,7 +3,7 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: false
 tags: 
-  - review
+  - 日次レビュー
 description: "100日チャレンジ 第七期の Discord チャンネルに送信したメッセージのアーカイブ"
 scrolltotop: true
 ---
